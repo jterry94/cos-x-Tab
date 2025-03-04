@@ -36,6 +36,8 @@ import CorePlot
 //                           2n * (2n-1)
 //
 
+//What Am I Doing?
+
 
 typealias nthTermParameterTuple = (n: Int, x: Double)
 typealias nthTermMultiplierHandler = (_ parameters: [nthTermParameterTuple]) -> Double
